@@ -1,0 +1,12 @@
+
+=== FCFS ===
+PID	AT	BT	CT	TAT	WT
+1	0	2	2	2	0
+2	2	2	4	2	0
+3	4	4	8	4	0
+
+=== SRTN ===
+PID	AT	BT	CT	TAT	WT
+1	0	2	2	2	0
+2	2	2	4	2	0
+3	4	4	8	4	0
